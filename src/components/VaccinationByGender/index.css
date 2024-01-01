@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+}
+h1 {
+  margin: 3px;
+  color: #6c757d;
+  font-size: 18px;
+}
